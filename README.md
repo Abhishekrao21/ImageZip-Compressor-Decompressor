@@ -15,11 +15,3 @@ python compressor.py
 
 # 2) Decompress → reconstructed.png
 python compressor.py
-
-🛠️ Parameters
-tolerance (int): color-step size (lower = finer detail)
-
-output_file / save_image_path: customize filenames
-
-👤 Author: Ahisek Rao
-📜 License: © 2025 Ahisek Rao. All rights reserved.
